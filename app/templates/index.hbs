@@ -1,9 +1,10 @@
 <h3>Today's Features:</h3>
-
-<ul>
-  {{#each model as |article-unit|}}
-    {{article-tile article=article-unit}}
-  {{/each}}
-</ul>
+<div class="row">
+  <ul>
+    {{#each model as |article-unit|}}
+      {{article-tile article=article-unit}}
+    {{/each}}
+  </ul>
+</div>
 
 {{outlet}}
