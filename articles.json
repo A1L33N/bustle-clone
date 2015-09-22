@@ -1,0 +1,17 @@
+{ "articles": [{
+    "headline": "Trump Pays  Off National Dept in Exchange for Life-Long Presidency, Citizens Emigrate in Droves",
+    "author" : "Arya Stark",
+    "date": "09/22/2015",
+    "category": "Politics",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis velit elit, in vestibulum justo porta eget. Suspendisse pretium consequat turpis, vitae feugiat nulla vehicula eu. Donec dapibus, nibh sit amet facilisis tincidunt, tortor orci iaculis lacus, quis dictum mauris dui vitae purus. Quisque quis ipsum et neque imperdiet aliquam. Morbi nec viverra ipsum. Suspendisse non suscipit nisi. Integer tortor urna, porta quis dolor id, fringilla volutpat magna. Phasellus quis massa nibh. Etiam vitae risus commodo, mattis velit vitae, scelerisque quam.",
+    "image": "http://uziiw38pmyg1ai60732c4011.wpengine.netdna-cdn.com/wp-content/dropzone/2015/08/RTX1GZCO.jpg"
+
+    }, {
+      "headline": "Student Loan Interest Rates Expected to Double in the Next 5 Years",
+      "author" : "Sansa Stark",
+      "date": "09/22/2015",
+      "category": "Education",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis velit elit, in vestibulum justo porta eget. Suspendisse pretium consequat turpis, vitae feugiat nulla vehicula eu. Donec dapibus, nibh sit amet facilisis tincidunt, tortor orci iaculis lacus, quis dictum mauris dui vitae purus. Quisque quis ipsum et neque imperdiet aliquam. Morbi nec viverra ipsum. Suspendisse non suscipit nisi. Integer tortor urna, porta quis dolor id, fringilla volutpat magna. Phasellus quis massa nibh. Etiam vitae risus commodo, mattis velit vitae, scelerisque quam.",
+      "image": "http://thegofund.com/wp-content/uploads/2014/02/Debt.jpg"
+  }]
+}
