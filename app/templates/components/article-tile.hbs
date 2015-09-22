@@ -1,7 +1,6 @@
-<li>
-  <h4>{{article.headline}}</h4>
+<li>{{#link-to 'article' article.id}}{{article.headline}}
   <p><img src={{article.image}} alt={{rental.type}}></p>
-</li>
+{{/link-to}}</li>
 
 
 {{yield}}
