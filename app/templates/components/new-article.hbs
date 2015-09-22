@@ -1,0 +1,40 @@
+<div>
+  <form >
+    <div class="row">
+      <div class="col-md-4">
+        <div class="form-group">
+          <label for="headline">Headline</label>
+          {{input value=headline id="headline"}}
+        </div>
+
+        <div class="form-group">
+          <label for="author">Author</label>
+          {{input value=author id="author"}}
+        </div>
+
+        <div class="form-group">
+          <label for="date">Date</label>
+          {{input value=date id="date"}}
+        </div>
+
+        <div class="form-group">
+          <label for="category">Category</label>
+          {{input value=category id="category"}}
+        </div>
+        <div class="form-group">
+          <label for="image">Image</label>
+          {{input value=image id="image"}}
+        </div>
+      </div>
+
+      <div class="col-md-8">
+        <div>
+          <label for="body">Body</label>
+          {{textarea value=body id="body"}}
+        </div>
+      </div>
+    </div>
+    <button {{action 'saveArticle'}}>Save</button>
+  </form>
+</div>
+{{yield}}
