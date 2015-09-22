@@ -1,0 +1,12 @@
+.carousel-inner > .item > img {
+  margin: 0 auto;
+}
+
+row {
+  margin: auto;
+}
+
+nav {
+  text-align: right;
+  margin: auto;
+}
